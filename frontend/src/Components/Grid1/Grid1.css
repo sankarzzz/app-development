@@ -1,0 +1,49 @@
+.event-planning-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1rem;
+    text-align: center;
+    padding: 5rem;
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  .event-heading {
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .event-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0.5rem 0;
+  }
+  
+  .event-description,
+  .event-details {
+    font-size: 1rem;
+    line-height: 1.3;
+    margin: 0.5rem 0;
+  }
+  
+  .event-button {
+    display: inline-block; /* Ensures the button only takes as much width as needed */
+    margin-top: 1.1rem;
+    padding: 10px; /* Adjust padding to define the size */
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 4px; /* Optional: Add rounded corners */
+  }
+  
+  .event-button:hover {
+    background-color: #333;
+  }
+  

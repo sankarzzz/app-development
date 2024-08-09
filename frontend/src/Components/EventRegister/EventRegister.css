@@ -1,0 +1,79 @@
+EventRegister.css
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+  
+  .form-div {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  .registration-form {
+    width: 100%;
+  }
+  
+  h1 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    color: #333;
+  }
+  
+  .row {
+    margin-bottom: 1rem;
+  }
+  
+  .form-outline {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .form-outline .form-label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    color: #6c757d;
+  }
+  
+  .form-outline .form-control {
+    border-radius: 4px;
+    box-shadow: none;
+    border: 1px solid #ced4da;
+  }
+  
+  .form-outline .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+  }
+  
+  .btn-dark {
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s, border-color 0.2s;
+    display: block;
+    width: 100%;
+  }
+  
+  .btn-dark:hover {
+    background-color: #333;
+    border-color: #333;
+  }
+  
+  @media (max-width: 767px) {
+    .form-outline .form-label {
+      font-size: 0.75rem;
+    }
+  }
+  

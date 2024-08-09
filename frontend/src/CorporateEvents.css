@@ -1,0 +1,42 @@
+.background-image {
+    /* background-image: url('your-background-image-url'); */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  /* Other existing styles */
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .btn-black {
+    background-color: black;
+    border-color: black;
+    color: white;
+  }
+  
+  .btn-black:hover {
+    background-color: #333; /* Darker shade for hover effect */
+    border-color: #333;
+  }
+  /* Center the button inside the card */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+  }
+  
+  .card-body .btn-black {
+    margin-top: auto; /* Pushes button to the bottom */
+  }
+  
+  a{
+    color: white !important;
+    text-decoration: none;
+  }

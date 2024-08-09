@@ -1,0 +1,44 @@
+/* Styling for the new footer component */
+
+.new-footer {
+    background-color: #333; /* Dark background */
+    padding: 20px 0;
+    text-align: center;
+    color: #ccc; /* Light gray text color */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .new-footer-icons {
+    margin-bottom: 10px;
+  }
+  
+  .new-footer-icons a {
+    margin: 0 8px;
+    display: inline-block;
+  }
+  
+  .new-footer-icons img {
+    width: 24px; /* Set the size of the icons */
+    height: 24px;
+    filter: invert(80%); /* Lighten the icons */
+    transition: filter 0.3s ease;
+  }
+  
+  .new-footer-icons img:hover {
+    filter: invert(100%); /* Brighten on hover */
+  }
+  
+  .new-footer-copyright {
+    font-size: 0.85em;
+    color: #999; /* Slightly lighter gray */
+  }
+  
+  .new-footer-copyright a {
+    color: #999;
+    text-decoration: none;
+  }
+  
+  .new-footer-copyright a:hover {
+    color: #fff; /* Change color on hover */
+  }
+  

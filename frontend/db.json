@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "id": "a8e2",
+      "username": "nickantoroy",
+      "password": "nick@123",
+      "email": "nickanto555@gmail.com"
+    },
+    {
+      "id": "6433",
+      "username": "zack",
+      "password": "zack9876",
+      "email": "zack438@gmail.com"
+    },
+    {
+      "id": "a392",
+      "username": "admin",
+      "password": "P@ssw0rd",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "b71d",
+      "name": "",
+      "email": "sankar@gmail.com",
+      "password": "P@ssw0rd",
+      "username": "sankar"
+    },
+    {
+      "id": "43ff",
+      "username": "akash",
+      "password": "P@ssw0rd",
+      "email": "akash@gmail.com"
+    }
+  ],
+  "corporateEvents": [
+    {
+      "id": "1",
+      "name": "ANNUAL BUSINESS SUMMIT",
+      "description": "The Wells Fargo Annual Business Summit is a premier event that brings together industry leaders, partners, and clients to explore market trends, innovative financial solutions, and strategies for sustainable growth. Featuring keynote speeches, panel discussions, workshops, and networking opportunities, the summit provides a platform for knowledge sharing and collaboration. Exclusive sessions, such as VIP networking events and executive briefings, offer added value for top-tier participants.",
+      "date": "2024-08-15",
+      "time": "09:00 am - 1:00 pm",
+      "venue": "#6 Hotels",
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Wells Fargo Annual Business Summit is a premier event that brings together industry leaders, business partners, and key clients to explore current market trends, innovative financial solutions, and strategies for sustainable growth. The summit serves as a platform for networking, knowledge sharing, and discussing the future of the financial services industry.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15664.611298587743!2d76.9520944!3d11.0271584!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba858ee4a00e09d%3A0x493ee5ef51e60ce5!2sHash%20Six%20Hotels!5e0!3m2!1sen!2sin!4v1722418418699!5m2!1sen!2sin",
+      "inclusive": [
+        "Workshops",
+        "Networking Sessions",
+        "Panel Discussions"
+      ],
+      "exclusive": [
+        "One-on-One Meetings",
+        "Exclusive Content Access",
+        "VIP Networking Events"
+      ],
+      "organization_details": "Wells Fargo & Company, headquartered in San Francisco, California, is a leading financial services company founded in 1852. Under the leadership of CEO Charles W. Scharf, Wells Fargo operates across various sectors including banking, investment, insurance, mortgage, and corporate services. The company employs approximately 266,000 people and serves more than 70 million customers globally, with operations in over 35 countries.Wells Fargo's mission is to help customers succeed financially, guided by core values such as customer service, integrity, ethics, diversity, inclusion, leadership, accountability, and innovation. As one of the BIG FOUR banks in the United States, Wells Fargo is consistently ranked among the top financial institutions worldwide. The company is also committed to sustainability and community development through various initiatives and charitable contributions.",
+      "organizer": "Mr.Ramesh Venkat",
+      "organization": "Wells Fargo & Company",
+      "location": "Saibaba Colony,Coimbatore",
+      "type": "Networking Event",
+      "guest": "Jamie Dimon(the Chairman and CEO of JPMorgan Chase & Co)",
+      "inclusions": "Workshops; Networking Sessions; Panel Discussions",
+      "exclusions": "One-on-One Meetings; Exclusive Content Access; VIP Networking Events",
+      "capacity": "140"
+    },
+    {
+      "id": "2",
+      "name": "TECH INNOVATIONS EXPO",
+      "description": "The Tech Innovations Expo is a leading event that showcases the forefront of technological advancements and innovations. Held annually, this expo brings together industry leaders, tech enthusiasts, and professionals from around the globe to explore the latest trends, groundbreaking technologies, and future directions in the tech industry. Attendees can engage with cutting-edge products through live demonstrations, participate in interactive workshops, and gain insights from keynote speeches and panel discussions led by renowned experts",
+      "date": "2024-09-15",
+      "time": "10:00 am - 1:00 pm",
+      "venue": "Taj Palace",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Tech Innovations Expo is a premier event highlighting the latest in technology. Featuring keynote speeches, interactive workshops, and live product demos, the expo provides a platform for exploring cutting-edge advancements and networking with industry leaders.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1522942546617!2d77.1708036!3d28.5952077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d155a5030a7%3A0xefa48735ea5496eb!2sTaj%20Palace%2C%202%2C%20Sardar%20Patel%20Marg%2C%20Diplomatic%20Enclave%2C%20Chanakyapuri%2C%20New%20Delhi%2C%20Delhi%20110021!5e0!3m2!1sen!2sin!4v1722451386730!5m2!1sen!2sin",
+      "inclusive": [
+        "Interactive Workshops",
+        "Product Demonstrations",
+        "Public Networking Areas"
+      ],
+      "exclusive": [
+        "Specialized Networking Lounges",
+        "Behind-the-Scenes Tours",
+        "Private Innovation Briefings"
+      ],
+      "organization_details": "Meta Platforms Inc., formerly known as Facebook, Inc., is headquartered in Menlo Park, California, and was founded in 2004 by Mark Zuckerberg. As a leading technology and social media company, Meta operates several major platforms, including Facebook, Instagram, and Messenger, offering a range of services from social networking to targeted advertising. The company is also at the forefront of virtual and augmented reality innovations with its Oculus VR products and AR initiatives. Meta's mission is to give people the power to build community and bring the world closer together, guided by values of innovation, connection, transparency, and inclusion. Known for its global reach and technological advancements, Meta continues to shape the digital landscape and enhance user experiences worldwide.",
+      "organizer": "Mr.Gopal Devsingh",
+      "organization": "Facebook, Inc. (Meta Platforms Inc.)",
+      "location": "New Delhi",
+      "type": "Product Launch Event",
+      "guest": "Satya Nadella(the CEO of Microsoft)",
+      "inclusions": "Interactive Workshops; Product Demonstrations; Public Networking Areas",
+      "exclusions": "Specialized Networking Lounges; Behind-the-Scenes Tours; Private Innovation Briefings",
+      "capacity": "117"
+    },
+    {
+      "id": "3",
+      "name": "HEALTHCARE CONFERENCE",
+      "description": "A healthcare conference is a specialized event that brings together professionals, researchers, policymakers, and stakeholders from the healthcare industry to discuss advancements, challenges, and trends in healthcare. The conference typically features keynote speeches, panel discussions, workshops, and networking opportunities centered around topics such as medical research, healthcare policy, clinical practices, technology innovations, and patient care. The aim is to foster collaboration, share knowledge, and explore solutions to improve healthcare systems and patient outcomes.",
+      "date": "2024-10-05",
+      "time": "11:00 am - 3:20 pm",
+      "venue": "The Leela Palace",
+      "image": "https://plus.unsplash.com/premium_photo-1681843129112-f7d11a2f17e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Tech Innovations Expo is a premier event highlighting the latest in technology. Featuring keynote speeches, interactive workshops, and live product demos, the expo provides a platform for exploring cutting-edge advancements and networking with industry leaders.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1522942546617!2d77.1708036!3d28.5952077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d155a5030a7%3A0xefa48735ea5496eb!2sTaj%20Palace%2C%202%2C%20Sardar%20Patel%20Marg%2C%20Diplomatic%20Enclave%2C%20Chanakyapuri%2C%20New%20Delhi%2C%20Delhi%20110021!5e0!3m2!1sen!2sin!4v1722451386730!5m2!1sen!2sin",
+      "inclusive": [
+        "Policymakers",
+        "Researchers",
+        "Healthcare ProfessionalsHealthcare Professionals"
+      ],
+      "exclusive": [
+        "Specialized Workshops",
+        "Private Networking Events",
+        "Premium Access Passes"
+      ],
+      "organization_details": "Novartis International AG is a global healthcare leader headquartered in Basel, Switzerland, and was formed in 1996 through the merger of Ciba-Geigy and Sandoz. Under the leadership of CEO Vasant Narasimhan, Novartis focuses on advancing medical science through its pharmaceutical innovations, including treatments in oncology, cardiology, immunology, and neuroscience. The company also operates a generics division, Sandoz, and previously included eye care products through its Alcon division. Novartis is committed to discovering new ways to improve and extend lives, guided by values of innovation, integrity, collaboration, and excellence. Known for its robust research and development pipeline, Novartis continues to make significant contributions to global healthcare with its groundbreaking therapies and treatments.",
+      "organizer": "Mr.Infant Mathews",
+      "organization": "Novartis International AG",
+      "location": "Bengaluru",
+      "type": "Conference/Seminars",
+      "guest": " Dr. Albert Bourla(the Chairman and CEO of Pfizer)",
+      "inclusions": "Policymakers; Researchers; Healthcare ProfessionalsHealthcare Professionals",
+      "exclusions": "Specialized Workshops; Private Networking Events; Premium Access Passes",
+      "capacity": "114"
+    },
+    {
+      "id": "4",
+      "name": "MARKETING STRATEGY FORUM",
+      "description": "The Marketing Strategy Forum is a premier event that brings together marketing professionals, industry leaders, and strategic thinkers to explore the latest trends and strategies in marketing. This forum offers a comprehensive platform for discussing innovative approaches, sharing insights, and networking with key players in the marketing industry. Attendees will benefit from keynote speeches, panel discussions, and interactive sessions designed to enhance their marketing strategies and drive business growth..",
+      "date": "2024-11-20",
+      "time": "12:00 pm - 4:00 pm",
+      "venue": "Business Hall",
+      "image": "https://images.unsplash.com/photo-1624555130581-1d9cca783bc0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Tech Innovations Expo is a premier event highlighting the latest in technology. Featuring keynote speeches, interactive workshops, and live product demos, the expo provides a platform for exploring cutting-edge advancements and networking with industry leaders.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1522942546617!2d77.1708036!3d28.5952077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d155a5030a7%3A0xefa48735ea5496eb!2sTaj%20Palace%2C%202%2C%20Sardar%20Patel%20Marg%2C%20Diplomatic%20Enclave%2C%20Chanakyapuri%2C%20New%20Delhi%2C%20Delhi%20110021!5e0!3m2!1sen!2sin!4v1722451386730!5m2!1sen!2sin",
+      "inclusive": [
+        "Interactive Workshops",
+        "Product Demonstrations",
+        "Public Networking Areas"
+      ],
+      "exclusive": [
+        "Specialized Networking Lounges",
+        "Behind-the-Scenes Tours",
+        "Private Innovation Briefings"
+      ],
+      "organization_details": "Meta Platforms Inc., formerly known as Facebook, Inc., is headquartered in Menlo Park, California, and was founded in 2004 by Mark Zuckerberg. As a leading technology and social media company, Meta operates several major platforms, including Facebook, Instagram, and Messenger, offering a range of services from social networking to targeted advertising. The company is also at the forefront of virtual and augmented reality innovations with its Oculus VR products and AR initiatives. Meta's mission is to give people the power to build community and bring the world closer together, guided by values of innovation, connection, transparency, and inclusion. Known for its global reach and technological advancements, Meta continues to shape the digital landscape and enhance user experiences worldwide.",
+      "organizer": "Mr.Gopal Devsingh",
+      "organization": "Facebook, Inc. (Meta Platforms Inc.)",
+      "location": "Mumbai",
+      "type": "Product Launch Event",
+      "guest": "Satya Nadella(the CEO of Microsoft)",
+      "inclusions": "Interactive Workshops; Product Demonstrations; Public Networking Areas",
+      "exclusions": "Specialized Networking Lounges; Behind-the-Scenes Tours; Private Innovation Briefings",
+      "capacity": "117"
+    },
+    {
+      "id": "5",
+      "name": "ENVIRONMENTAL SUSTAINABILITY",
+      "description": "The Environmental Sustainability Forum is a key event focused on addressing environmental challenges and promoting sustainable practices. This forum brings together environmental experts, business leaders, policymakers, and advocates to discuss innovative solutions and strategies for achieving sustainability. Attendees will engage in keynote speeches, panel discussions, and interactive workshops designed to advance environmental stewardship and foster collaborative efforts toward a sustainable future..",
+      "date": "2024-12-15",
+      "time": "3:00 pm - 6:00 pm",
+      "venue": "Green Hall",
+      "image": "https://images.unsplash.com/photo-1710093072228-8c3129f27357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Tech Innovations Expo is a premier event highlighting the latest in technology. Featuring keynote speeches, interactive workshops, and live product demos, the expo provides a platform for exploring cutting-edge advancements and networking with industry leaders.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1522942546617!2d77.1708036!3d28.5952077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d155a5030a7%3A0xefa48735ea5496eb!2sTaj%20Palace%2C%202%2C%20Sardar%20Patel%20Marg%2C%20Diplomatic%20Enclave%2C%20Chanakyapuri%2C%20New%20Delhi%2C%20Delhi%20110021!5e0!3m2!1sen!2sin!4v1722451386730!5m2!1sen!2sin",
+      "inclusive": [
+        "Interactive Workshops",
+        "Product Demonstrations",
+        "Public Networking Areas"
+      ],
+      "exclusive": [
+        "Specialized Networking Lounges",
+        "Behind-the-Scenes Tours",
+        "Private Innovation Briefings"
+      ],
+      "organization_details": "Meta Platforms Inc., formerly known as Facebook, Inc., is headquartered in Menlo Park, California, and was founded in 2004 by Mark Zuckerberg. As a leading technology and social media company, Meta operates several major platforms, including Facebook, Instagram, and Messenger, offering a range of services from social networking to targeted advertising. The company is also at the forefront of virtual and augmented reality innovations with its Oculus VR products and AR initiatives. Meta's mission is to give people the power to build community and bring the world closer together, guided by values of innovation, connection, transparency, and inclusion. Known for its global reach and technological advancements, Meta continues to shape the digital landscape and enhance user experiences worldwide.",
+      "organizer": "Mr.Gopal Devsingh",
+      "organization": "Facebook, Inc. (Meta Platforms Inc.)",
+      "location": "Hyderabad",
+      "type": "Product Launch Event",
+      "guest": "Satya Nadella(the CEO of Microsoft)",
+      "inclusions": "Interactive Workshops; Product Demonstrations; Public Networking Areas",
+      "exclusions": "Specialized Networking Lounges; Behind-the-Scenes Tours; Private Innovation Briefings",
+      "capacity": "117"
+    },
+    {
+      "id": "6",
+      "name": "FINANCE WORLD SUMMIT",
+      "description": "The Finance World Summit is a premier event that gathers global finance professionals, industry leaders, and policymakers to discuss the latest trends, challenges, and innovations in the financial sector. This summit provides a platform for in-depth analysis and strategic discussions on topics such as investment strategies, regulatory changes, and emerging technologies. Attendees will benefit from keynote addresses, panel discussions, and networking opportunities designed to advance their understanding and influence in the finance world.",
+      "date": "2025-01-25",
+      "time": "09:30 am - 12:30 pm",
+      "venue": "Finance Hub",
+      "image": "https://plus.unsplash.com/premium_photo-1705267936187-aceda1a6c1a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "small_description": "The Tech Innovations Expo is a premier event highlighting the latest in technology. Featuring keynote speeches, interactive workshops, and live product demos, the expo provides a platform for exploring cutting-edge advancements and networking with industry leaders.",
+      "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1522942546617!2d77.1708036!3d28.5952077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d155a5030a7%3A0xefa48735ea5496eb!2sTaj%20Palace%2C%202%2C%20Sardar%20Patel%20Marg%2C%20Diplomatic%20Enclave%2C%20Chanakyapuri%2C%20New%20Delhi%2C%20Delhi%20110021!5e0!3m2!1sen!2sin!4v1722451386730!5m2!1sen!2sin",
+      "inclusive": [
+        "Interactive Workshops",
+        "Product Demonstrations",
+        "Public Networking Areas"
+      ],
+      "exclusive": [
+        "Specialized Networking Lounges",
+        "Behind-the-Scenes Tours",
+        "Private Innovation Briefings"
+      ],
+      "organization_details": "Meta Platforms Inc., formerly known as Facebook, Inc., is headquartered in Menlo Park, California, and was founded in 2004 by Mark Zuckerberg. As a leading technology and social media company, Meta operates several major platforms, including Facebook, Instagram, and Messenger, offering a range of services from social networking to targeted advertising. The company is also at the forefront of virtual and augmented reality innovations with its Oculus VR products and AR initiatives. Meta's mission is to give people the power to build community and bring the world closer together, guided by values of innovation, connection, transparency, and inclusion. Known for its global reach and technological advancements, Meta continues to shape the digital landscape and enhance user experiences worldwide.",
+      "organizer": "Mr.Gopal Devsingh",
+      "organization": "Facebook, Inc. (Meta Platforms Inc.)",
+      "location": "Kochi",
+      "type": "Product Launch Event",
+      "guest": "Satya Nadella(the CEO of Microsoft)",
+      "inclusions": "Interactive Workshops; Product Demonstrations; Public Networking Areas",
+      "exclusions": "Specialized Networking Lounges; Behind-the-Scenes Tours; Private Innovation Briefings",
+      "capacity": "117"
+    }
+  ],
+  "event_register": [
+    {
+      "id": "da46",
+      "firstName": "Nick",
+      "lastName": "Anto Roy",
+      "email": "nickanto555@gmail.com",
+      "age": "21",
+      "businessName": "21",
+      "organizationName": "21",
+      "businessAddress": "L-273,Police Quarters,Ganapathy,bharathi nagar.",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "zipcode": "641006",
+      "userId": "a8e2",
+      "eventId": 1
+    },
+    {
+      "id": "80e9",
+      "firstName": "Nick",
+      "lastName": "Anto Roy",
+      "email": "nickanto555@gmail.com",
+      "age": "4",
+      "businessName": "dldfns",
+      "organizationName": "d;fnsnd;l",
+      "businessAddress": "L-273,Police Quarters,Ganapathy,bharathi nagar.",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "zipcode": "641006",
+      "userId": "a8e2",
+      "eventId": 1
+    },
+    {
+      "id": "6119",
+      "firstName": "Nick",
+      "lastName": "Anto Roy",
+      "email": "nickanto555@gmail.com",
+      "age": "77777",
+      "businessName": "7777",
+      "organizationName": "7777",
+      "businessAddress": "L-273,Police Quarters,Ganapathy,bharathi nagar.",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "zipcode": "641006",
+      "userId": "43ff",
+      "eventId": 1
+    }
+  ]
+}

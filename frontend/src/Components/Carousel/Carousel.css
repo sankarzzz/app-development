@@ -1,0 +1,14 @@
+.sliding-siva img {
+  height: 90vh; 
+  width: 100%; 
+  object-fit: cover; 
+}
+.overlay-text{
+  position: absolute;
+  bottom: 10px; 
+  left: 10px; 
+  color: white; 
+  font-size: 18px; 
+  font-weight: bold;  
+
+}
